@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning ...
 
-我是小明，这里是我的 Git 仓库
+我是小明，这里是我的 Git 仓库，正在努力学习ing...
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SleepingXiaoming)](https://github.com/anuraghazra/github-readme-stats)
